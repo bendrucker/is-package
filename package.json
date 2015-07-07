@@ -1,7 +1,7 @@
 {
   "name": "is-package",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Detect if a string is a package name that could be on npm",
   "license": "MIT",
   "repository": "bendrucker/is-package",
