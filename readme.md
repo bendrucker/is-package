@@ -1,4 +1,4 @@
-# is-package [![Build Status](https://travis-ci.org/bendrucker/is-package.svg?branch=master)](https://travis-ci.org/bendrucker/is-package)
+# is-package [![Build Status](https://travis-ci.org/bendrucker/is-package.svg?branch=master)](https://travis-ci.org/bendrucker/is-package) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/is-package.svg)](https://greenkeeper.io/)
 
 > Detect if a string is a package name that could be on npm
 
